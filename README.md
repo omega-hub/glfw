@@ -65,6 +65,7 @@ GLFW bundles a number of dependencies in the `deps/` directory.
  - Bugfix: Initialization failed on headless systems
  - Bugfix: The cached current context could get out of sync
  - [Cocoa] Bugfix: The cached `NSScreen` for a monitor could get out of sync
+ - [EGL] Added support for EGL 1.5
 
 
 ## Contact
